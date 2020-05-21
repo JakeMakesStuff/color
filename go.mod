@@ -1,4 +1,4 @@
-module github.com/jakemakesstuff/color
+module github.com/JakeMakesStuff/color
 
 go 1.13
 
